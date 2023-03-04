@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Alana</h1>
-<h3 align="center">A passionate Software Developer.</h3>
+<h3 align="center">Your Favourite Software Developer and YouTuber.</h3>
 <img align="right" width="100%" height="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshbam-joshwilly&label=Profile%20views&color=0e75b6&style=flat" alt="joshbam-joshwilly" /> </p>
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/joshua_alana" target="blank"><img src="https://img.shields.io/twitter/follow/joshua_alana?logo=twitter&style=for-the-badge" alt="joshua_alana" /></a> </p>
 
-- 🔭 I’m currently working on **Django peer-peer Study App**
+- 🔭 I’m currently working on **Yelp-Camp Application built with NODE EXPRESS MONGODB AND EJS**
 
-- 🌱 I’m currently learning **Django, Vue.js**
+- 🌱 I’m currently learning **Blockchain, Bitcoin**
 
-- 💬 Ask me about **React, Ejs,**
+- 💬 Ask me about **React, Ejs, Node, Express MongoDB**
 
 - 📫 How to reach me **https://www.linkedin.com/in/joshua-alana-5760b3196/**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/joshua_alana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshua_alana" height="30" width="40" /></a>
+<a href="https://twitter.com/devjosh2030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshua_alana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alana joshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alana joshua" height="30" width="40" /></a>
 <a href="https://fb.com/josh willy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josh willy" height="30" width="40" /></a>
 <a href="https://instagram.com/joshbam_joshwilly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshbam_joshwilly" height="30" width="40" /></a>
