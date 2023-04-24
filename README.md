@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/joshua_alana" target="blank"><img src="https://img.shields.io/twitter/follow/joshua_alana?logo=twitter&style=for-the-badge" alt="joshua_alana" /></a> </p>
 
-- 🔭 I’m currently working on **Yelp-Camp Application built with NODE EXPRESS MONGODB AND EJS**
+- 🔭 I’m currently working on **Alu-Camp Application built with NODE EXPRESS MONGODB AND EJS**
+- 🔭 I’m currently working on **Kinya-English-Translate Application built with Python for text to sound translation**
 
 - 🌱 I’m currently learning **Blockchain, Bitcoin**
 
