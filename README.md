@@ -1,6 +1,6 @@
 ![LinkedIn cover - 1](https://user-images.githubusercontent.com/60876387/149259523-fd614459-7941-4941-aa28-6e28fdd0338f.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshbam-joshwilly&hide=jupyter+notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshbam-joshwilly&hide=jupyter+notebook&layout=compact)](https://github.com/Joshbam-joshwilly/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshbam-joshwilly&show_icons=true)
 
 
