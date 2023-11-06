@@ -3,6 +3,9 @@ Hey there, <br><br>I am Joshua Alana, A Software Engineer, Content Creator and a
 
  
 [![wakatime](https://wakatime.com/badge/user/722f2c3d-5382-408b-abff-0640d77086b2.svg)](https://wakatime.com/@722f2c3d-5382-408b-abff-0640d77086b2)
+<br/>
+# 💻 Tech Stack:
+<br/>
 Frontend:
 <div align='left' style="display: flex; justify-content: space-between;">
 <img src='https://img.shields.io/badge/code-JSF-E96B37?logo=jsf&logoWidth=30&labelColor=black&style=for-the-badge' alt='JSF'>
